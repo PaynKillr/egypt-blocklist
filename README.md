@@ -9,7 +9,7 @@ But if you’re in Egypt, trying to avoid:
 	•	Spyware-ridden “courier” sites that ask for your card and national ID
 	•	ISP-injected ad domains that shove crypto-mining into your nostrils
 
-…then you’re basically the Last Guardian Standing in a Trials of Osiris game — and your Your ISP: "Hold my beer... and your connection."
+…then you’re basically the Last Guardian Standing in a Trials of Osiris game — and your ISP: "Hold my beer... and your connection."
 
 So I built this:
 A flat, aggressive-but-safe blocklist (updated weekly, kinda!) focused 100% on phishing, malware, spyware, and scam domains targeting Egyptian users.
