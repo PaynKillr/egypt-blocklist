@@ -1,3 +1,5 @@
+## 🇪🇬 Egypt DNS Threat Blocklist for AdGuard, Pi-hole & NextDNS
+
 Let’s be real! most global DNS blocklists (shoutout Hagezi, OISD, etc.) are great… if you’re worried about international scams, crypto pump bots, and dodgy casino sites in Slovakia.
 
 But if you’re in Egypt, trying to avoid:
