@@ -1,6 +1,7 @@
 Let’s be real—most global DNS blocklists (shoutout Hagezi, OISD, etc.) are great… if you’re worried about international scams, crypto pump bots, and dodgy casino sites in Slovakia.
 
 But if you’re in Egypt, trying to avoid:
+
 	•	Fake Egypt Post delivery scams
 	•	Phishing sites mimicking Banque Misr with a CSS file from 2009
 	•	Spyware-ridden “courier” sites that ask for your card and national ID
